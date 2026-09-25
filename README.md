@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm [Rizky Harun Ramadhan] 👋
 
-<!--
-**ikyy96/ikyy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Systems Student** | 🐧 **Linux & Server Enthusiast** | 💻 **Backend & Scripting**
 
-Here are some ideas to get you started:
+I am passionate about building system administration tools, backend services, and server automation scripts. I enjoy working close to the bare metal, managing databases, and deploying practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Systems, DevOps & Tools:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🔭 Current Focus & Projects
+
+- 🖥️ **Remote Monitoring & Control Agent:** Developing Python-based system telemetry agents (`agent.py`) for remote server and PC management.
+- 🐧 **Linux Server Management:** Configuring bare-metal Ubuntu Servers and automating system workflows via CLI.
+- 📊 **Database Design:** Designing relational database schemas and managing SQL data pipelines via phpMyAdmin.
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+
+---
+
