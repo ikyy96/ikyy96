@@ -29,6 +29,6 @@ I am passionate about building system administration tools, backend services, an
 - 📊 **Database Design:** Designing relational database schemas and managing SQL data pipelines via phpMyAdmin.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ikyy96/ikyy96/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ikyy96/ikyy96/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </div>
 
