@@ -22,7 +22,9 @@ I am passionate about building system administration tools, backend services, an
 
 ---
   
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ikyy96&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikyy96&theme=dark" alt="GitHub Streak Stats" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ikyy96/ikyy96/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
