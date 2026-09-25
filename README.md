@@ -28,6 +28,8 @@ I am passionate about building system administration tools, backend services, an
 - 🐧 **Linux Server Management:** Configuring bare-metal Ubuntu Servers and automating system workflows via CLI.
 - 📊 **Database Design:** Designing relational database schemas and managing SQL data pipelines via phpMyAdmin.
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ikyy96&theme=dark)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ikyy96/ikyy96/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </div>
