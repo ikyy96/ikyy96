@@ -1,15 +1,15 @@
 # Hi there, I'm [Rizky Harun Ramadhan] 👋
 
-🎓 **Computer Systems Student** | 🐧 **Linux & Server Enthusiast** | 💻 **Backend & Scripting**
+🎬 Movie Buff | 🎮 Casual Gamer | 👨‍💻 Learning & Vibe Coding
 
-I am passionate about building system administration tools, backend services, and server automation scripts. I enjoy working close to the bare metal, managing databases, and deploying practical software solutions.
+Balancing life between compiling code, gaming sessions, and film marathons.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,xampp,github,bootstrap,html,css,js,php,py,cpp,linux,ubuntu,git,mysql" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,bootstrap,html,css,js,php,py,cpp,linux,ubuntu,git,mysql" alt="My Skills" />
 </div>
 
 ---
