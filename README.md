@@ -28,12 +28,7 @@ I am passionate about building system administration tools, backend services, an
 - 🐧 **Linux Server Management:** Configuring bare-metal Ubuntu Servers and automating system workflows via CLI.
 - 📊 **Database Design:** Designing relational database schemas and managing SQL data pipelines via phpMyAdmin.
 
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ikyy96/ikyy96/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
