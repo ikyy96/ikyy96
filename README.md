@@ -9,7 +9,7 @@ I am passionate about building system administration tools, backend services, an
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,bootstrap,html,css,js,php,py,cpp,linux,ubuntu,git,mysql" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=vscode,xampp,github,bootstrap,html,css,js,php,py,cpp,linux,ubuntu,git,mysql" alt="My Skills" />
 </div>
 
 ---
