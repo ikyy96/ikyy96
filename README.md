@@ -4,7 +4,7 @@
 
 Balancing life between compiling code, gaming sessions, and film marathons.
 
----
+----
 
 ### 🛠️ Technologies & Tools
 
@@ -12,7 +12,7 @@ Balancing life between compiling code, gaming sessions, and film marathons.
   <img src="https://skillicons.dev/icons?i=vscode,github,bootstrap,html,css,js,php,py,cpp,linux,ubuntu,git,mysql" alt="My Skills" />
 </div>
 
----
+----
   
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikyy96&theme=dark" alt="GitHub Streak Stats" />
