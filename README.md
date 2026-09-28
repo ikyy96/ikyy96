@@ -1,8 +1,6 @@
 # Hi there, I'm Rizky Harun Ramadhan
 
-🎬 Movie Buff | 🎮 Casual Gamer | 👨‍💻 Learning & Vibe Coding
-
-Balancing life between compiling code, gaming sessions, and film marathons.
+Copy-paste dari Stack Overflow sambil pura-pura ngerti. Lagi berusaha jadi developer beneran, satu error at a time.
 
 ---
 
