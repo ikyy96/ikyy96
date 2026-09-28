@@ -1,4 +1,4 @@
-# Hi there, I'm Rizky Harun Ramadhan
+# Hi there, I'm Rizky Harun Ramadhan 🙌
 
 Copy-paste dari Stack Overflow sambil pura-pura ngerti. Lagi berusaha jadi developer beneran, satu error at a time.
 
