@@ -1,4 +1,4 @@
-# Hi there, I'm [Rizky Harun Ramadhan] 
+# Hi there, I'm Rizky Harun Ramadhan
 
 🎬 Movie Buff | 🎮 Casual Gamer | 👨‍💻 Learning & Vibe Coding
 
